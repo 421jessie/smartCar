@@ -31,3 +31,5 @@ Figure 6. Driver performing the nighttime contrast enhancement application where
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
 
+##I hope that one day I can use smart car, it brings me many imaginations and surprises, and makes me feel amazed by technology!##
+note by 110360232＊
